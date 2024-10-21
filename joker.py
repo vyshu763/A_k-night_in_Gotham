@@ -49,7 +49,7 @@ elif user == '73c0fa793a3fb637dd0d2a93988cb57f934712feea65383cbef22f56f0429e2b':
 elif user == 'fa25c8da50fcf25f8f86556f6e5cb741b949087b90d871cd36f6e0b4ff3f86ea':
     print("Check it out: https://github.com/scikit-learn/scikit-learn")
 elif user == '72bc6c2882e97023532fcd6d914a24f63dba6006fd79a5d5a6bef9e5ba352d2f':
-    print("Interesting repo: https://github.com/Drone944/pysocks")  # Updated repo link
+    print("Interesting repo: https://github.com/Drone944/pysocks")
 elif user == '7b17b9ef62103b850236d5d509f11e396e3a246b08f45f0dcce70f31392e0e91':
     print("Great find: https://github.com/elastic/elasticsearch")
 elif user == 'c3be39b3ec6e64b4179b3033a72d4693dfc3c743c120d47931970e1b8fffc88e':
