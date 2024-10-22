@@ -1,6 +1,6 @@
 import hashlib
 
-user = input("Enter the address: ") 
+user = input("Enter the address:250 52nd street") 
 
 
 user = user.replace(" ", "")
